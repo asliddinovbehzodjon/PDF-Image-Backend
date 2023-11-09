@@ -1,0 +1,21 @@
+img{
+    width: 50%;
+    height: 200px;
+}
+input{
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-radius: 15px;
+    text-align: center;
+    border: 2px solid black;
+
+}
+button{
+    width: 100px;
+    height: 40px;
+    border: none;
+    border-radius: 15px;
+    text-align: center;
+    border: 2px solid black;
+}
